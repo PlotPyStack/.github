@@ -8,7 +8,7 @@ The table below summarizes the packages included in the PlotPyStack organization
 
 | Package Logo | Package Name  | Short Description                                                |
 |--------------|--------------|------------------------------------------------------------------|
-| ![PythonQwt Logo](https://raw.githubusercontent.com/PlotPyStack/.github/main/data/PythonQwt.png) | PythonQwt    | A set of Python bindings for the Qwt C++ class library.          |
+| ![PythonQwt Logo](https://raw.githubusercontent.com/PlotPyStack/.github/main/data/PythonQwt.png) | PythonQwt    | Low-level Qt plotting widgets for Python.   |
 | ![guidata Logo](https://raw.githubusercontent.com/PlotPyStack/.github/main/data/guidata.png) | guidata      | A Python library for easy dataset manipulation and display.      |
 | ![guiqwt Logo](https://raw.githubusercontent.com/PlotPyStack/.github/main/data/guiqwt.png) | guiqwt       | An efficient 2D data-plotting library based on PythonQwt.        |
 | ![plotpy Logo](https://raw.githubusercontent.com/PlotPyStack/.github/main/data/plotpy.png) | plotpy       | A high-level interface for creating a variety of plot types.     |
@@ -21,7 +21,7 @@ PlotPyStack is a Python-Qt visualization and scientific GUI stack based on Pytho
 
 PlotPyStack is composed of the following packages:
 
-* [PythonQwt](https://pypi.python.org/pypi/PythonQwt): Python wrapper for the Qwt C++ class library which extends the Qt framework with widgets for scientific and engineering applications. It provides a widget to plot 2-dimensional data and various widgets to display and control bounded or unbounded floating point values.
+* [PythonQwt](https://pypi.python.org/pypi/PythonQwt): Python implementation of the Qwt C++ library. The `PythonQwt` project was initiated to solve -at least temporarily- the obsolescence issue of `PyQwt` (the Python-Qwt C++ bindings library) which is no longer maintained. The idea was to translate the original Qwt C++ code to Python and then to optimize some parts of the code by writing new modules based on NumPy and other libraries.
 
 * [guidata](https://pypi.python.org/pypi/guidata): Automatic graphical user interfaces generation for easy dataset editing and display. It also provides helpers and application development tools for Python-Qt.
 
