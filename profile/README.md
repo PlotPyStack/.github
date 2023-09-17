@@ -8,10 +8,10 @@ The table below summarizes the packages included in the PlotPyStack organization
 
 | Package Logo | Package Name  | Short Description                                                |
 |--------------|--------------|------------------------------------------------------------------|
-| ![https://raw.githubusercontent.com/PlotPyStack/.github/master/data/PythonQwt.png](https://pypi.python.org/pypi/PythonQwt) | PythonQwt    | A set of Python bindings for the Qwt C++ class library.          |
-| ![https://raw.githubusercontent.com/PlotPyStack/.github/master/data/guidata.png](https://pypi.python.org/pypi/guidata) | guidata      | A Python library for easy dataset manipulation and display.      |
-| ![https://raw.githubusercontent.com/PlotPyStack/.github/master/data/guiqwt.png](https://pypi.python.org/pypi/guiqwt) | guiqwt       | An efficient 2D data-plotting library based on PythonQwt.        |
-| ![https://raw.githubusercontent.com/PlotPyStack/.github/master/data/plotpy.png](https://pypi.python.org/pypi/plotpy) | plotpy       | A high-level interface for creating a variety of plot types.     |
+| ![PythonQwt Logo](https://raw.githubusercontent.com/PlotPyStack/.github/main/data/PythonQwt.png) | PythonQwt    | A set of Python bindings for the Qwt C++ class library.          |
+| ![guidata Logo](https://raw.githubusercontent.com/PlotPyStack/.github/main/data/guidata.png) | guidata      | A Python library for easy dataset manipulation and display.      |
+| ![guiqwt Logo](https://raw.githubusercontent.com/PlotPyStack/.github/main/data/guiqwt.png) | guiqwt       | An efficient 2D data-plotting library based on PythonQwt.        |
+| ![plotpy Logo](https://raw.githubusercontent.com/PlotPyStack/.github/main/data/plotpy.png) | plotpy       | A high-level interface for creating a variety of plot types.     |
 
 For more details about each package, please refer to their respective repositories.
 
