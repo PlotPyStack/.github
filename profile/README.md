@@ -10,7 +10,7 @@ The table below summarizes the packages included in the PlotPyStack organization
 |--------------|--------------|------------------------------------------------------------------|
 | ![PythonQwt Logo](https://raw.githubusercontent.com/PlotPyStack/.github/main/data/PythonQwt.png) | PythonQwt    | Low-level Qt plotting widgets for Python.   |
 | ![guidata Logo](https://raw.githubusercontent.com/PlotPyStack/.github/main/data/guidata.png) | guidata      | A Python library for easy dataset manipulation and display.      |
-| ![guiqwt Logo](https://raw.githubusercontent.com/PlotPyStack/.github/main/data/guiqwt.png) | guiqwt       | An efficient 2D data-plotting library based on PythonQwt.        |
+| ![guiqwt Logo](https://raw.githubusercontent.com/PlotPyStack/.github/main/data/guiqwt.png) | guiqwt       | An efficient 2D data-plotting library based on PythonQwt (guiqwt will soon be replaced by plotpy). |
 | ![plotpy Logo](https://raw.githubusercontent.com/PlotPyStack/.github/main/data/plotpy.png) | plotpy       | A high-level interface for creating a variety of plot types.     |
 
 For more details about each package, please refer to their respective repositories.
@@ -25,6 +25,6 @@ PlotPyStack is composed of the following packages:
 
 * [guidata](https://pypi.python.org/pypi/guidata): Automatic graphical user interfaces generation for easy dataset editing and display. It also provides helpers and application development tools for Python-Qt.
 
-* [guiqwt](https://pypi.python.org/pypi/guiqwt): Efficient 2D data-plotting features (curve/image visualization and related tools) for interactive computing and signal/image processing application development using PythonQwt. Note: ``guiqwt`` is now deprecated and will soon be replaced by ``plotpy``.
+* [guiqwt](https://pypi.python.org/pypi/guiqwt): Efficient 2D data-plotting features (curve/image visualization and related tools) for interactive computing and signal/image processing application development using PythonQwt. Note: ``guiqwt`` will soon be replaced by ``plotpy``.
 
 * [plotpy](https://pypi.python.org/pypi/plotpy): Based on PythonQwt and on the scientific modules NumPy and SciPy, ``plotpy`` is a Python library providing efficient 2D data-plotting features (curve/image visualization and related tools) for interactive computing and signal/image processing application development.
