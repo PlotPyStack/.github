@@ -42,7 +42,7 @@
      pagecolor="#ffffff"
      id="base"
      inkscape:zoom="0.99999995"
-     inkscape:cx="438.00002"
+     inkscape:cx="437.00002"
      inkscape:cy="53.500003"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
@@ -443,7 +443,7 @@
   </g>
   <text
      xml:space="preserve"
-     style="font-style:italic;font-weight:bold;font-size:96px;line-height:1.5;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic Bold Italic';letter-spacing:-3.43px;fill:#808080;stroke-width:1.7;stroke-dasharray:none"
+     style="font-style:italic;font-weight:bold;font-size:96px;line-height:1.5;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic Bold Italic';letter-spacing:-3.43px;fill:#808080;stroke-width:1.7;stroke-dasharray:none;stroke:none"
      x="367.79132"
      y="102.00999"
      id="text380"><tspan
@@ -451,10 +451,10 @@
        id="tspan378"
        x="367.79132"
        y="102.00999"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:96px;font-family:Corbel;-inkscape-font-specification:'Corbel Bold';letter-spacing:-3.43px;fill:#808080;stroke:#ffffff;stroke-width:1.7;stroke-dasharray:none;stroke-opacity:1">PlotPyStack</tspan></text>
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:96px;font-family:Corbel;-inkscape-font-specification:'Corbel Bold';letter-spacing:-3.43px;fill:#808080;stroke:none;stroke-width:1.7;stroke-dasharray:none;stroke-opacity:1">PlotPyStack</tspan></text>
   <text
      xml:space="preserve"
-     style="font-style:italic;font-weight:bold;font-size:48px;line-height:1.5;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic Bold Italic';letter-spacing:-3.43px;fill:#808080;stroke-width:1.7;stroke-dasharray:none"
+     style="font-style:italic;font-weight:bold;font-size:48px;line-height:1.5;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic Bold Italic';letter-spacing:-3.43px;fill:#808080;stroke-width:1.7;stroke-dasharray:none;stroke:none"
      x="8.0627518"
      y="87.509048"
      id="text380-2"><tspan
@@ -462,5 +462,5 @@
        id="tspan378-8"
        x="8.0627518"
        y="87.509048"
-       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;font-family:Corbel;-inkscape-font-specification:'Corbel Italic';letter-spacing:-3.43px;fill:#808080;stroke:#ffffff;stroke-width:1.7;stroke-dasharray:none;stroke-opacity:1">Powered by</tspan></text>
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;font-family:Corbel;-inkscape-font-specification:'Corbel Italic';letter-spacing:-3.43px;fill:#808080;stroke:none;stroke-width:1.7;stroke-dasharray:none;stroke-opacity:1">Powered by</tspan></text>
 </svg>

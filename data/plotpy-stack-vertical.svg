@@ -43,7 +43,7 @@
      id="base"
      inkscape:zoom="3.9999998"
      inkscape:cx="82.250004"
-     inkscape:cy="87.125004"
+     inkscape:cy="86.875004"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:current-layer="svg2"
@@ -439,7 +439,7 @@
      sodipodi:nodetypes="cczc" />
   <text
      xml:space="preserve"
-     style="font-style:italic;font-weight:bold;font-size:42.6667px;line-height:1.5;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic Bold Italic';letter-spacing:-3.43px;fill:#808080;stroke-width:1.7;stroke-dasharray:none"
+     style="font-style:italic;font-weight:bold;font-size:42.6667px;line-height:1.5;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic Bold Italic';letter-spacing:-3.43px;fill:#808080;stroke-width:1.7;stroke-dasharray:none;stroke:none"
      x="-2.4833357"
      y="157.125"
      id="text380"><tspan
@@ -447,5 +447,5 @@
        id="tspan378"
        x="-2.4833357"
        y="157.125"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:42.6667px;font-family:Corbel;-inkscape-font-specification:'Corbel Bold';letter-spacing:-3.43px;fill:#808080;stroke:#ffffff;stroke-width:1.7;stroke-dasharray:none;stroke-opacity:1">PlotPyStack</tspan></text>
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:42.6667px;font-family:Corbel;-inkscape-font-specification:'Corbel Bold';letter-spacing:-3.43px;fill:#808080;stroke:none;stroke-width:1.7;stroke-dasharray:none;stroke-opacity:1">PlotPyStack</tspan></text>
 </svg>
