@@ -19,7 +19,7 @@ PythonQwt, guidata, guiqwt and plotpy were created by Pierre Raybaut and are now
 
 For more details about each package, please refer to their respective repositories.
 
-## Details
+## Details on stack packages
 
 PlotPyStack is a Python-Qt visualization and scientific GUI stack based on PythonQwt, guidata and plotpy.
 
@@ -32,3 +32,15 @@ PlotPyStack is composed of the following packages:
 * [guiqwt](https://github.com/PlotPyStack/guiqwt): Efficient 2D data-plotting features (curve/image visualization and related tools) for interactive computing and signal/image processing application development using PythonQwt. Note: ``guiqwt`` will soon be replaced by ``plotpy``.
 
 * [plotpy](https://github.com/PlotPyStack/plotpy): Based on PythonQwt and on the scientific modules NumPy and SciPy, ``plotpy`` is a Python library providing efficient 2D data-plotting features (curve/image visualization and related tools) for interactive computing and signal/image processing application development.
+
+## Some projects using PlotPyStack
+
+The following projects are powered by PlotPyStack:
+
+* [DataLab](https://codra-ingenierie-informatique.github.io/DataLab/): Open-source software for scientific data analysis and visualization
+
+* [ModuleTester](https://github.com/Codra-Ingenierie-Informatique/ModuleTester): Library providing a GUI to manage and run tests on a Python module
+
+* [PyPlanning](https://github.com/Codra-Ingenierie-Informatique/PyPlanning): Small planning tool to manage team schedules and to quickly create simple project plannings
+
+* ...and many other projects which are not open-source, unfortunately.
