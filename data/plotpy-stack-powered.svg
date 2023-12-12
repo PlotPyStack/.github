@@ -7,12 +7,12 @@
    height="150"
    id="svg2"
    sodipodi:version="0.32"
-   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   inkscape:version="1.3.1 (91b66b0783, 2023-11-16)"
    sodipodi:docname="plotpy-stack-powered.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
    inkscape:export-filename="plotpy-stack-powered.png"
-   inkscape:export-xdpi="100.63437"
-   inkscape:export-ydpi="100.63437"
+   inkscape:export-xdpi="32"
+   inkscape:export-ydpi="32"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -33,7 +33,7 @@
     </rdf:RDF>
   </metadata>
   <sodipodi:namedview
-     inkscape:window-height="1017"
+     inkscape:window-height="1057"
      inkscape:window-width="1920"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
@@ -44,7 +44,7 @@
      inkscape:zoom="0.99999995"
      inkscape:cx="436.50002"
      inkscape:cy="53.500003"
-     inkscape:window-x="1912"
+     inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:current-layer="svg2"
      showgrid="false"
