@@ -12,7 +12,7 @@ The table below summarizes the packages included in the PlotPyStack organization
 |--------------|---------------|---------------|---------------------------------------------------|
 | ![PythonQwt Logo](https://raw.githubusercontent.com/PlotPyStack/.github/main/data/PythonQwt.png) | [PythonQwt](https://github.com/PlotPyStack/PythonQwt)    | 2014 | Low-level Qt plotting widgets for Python.   |
 | ![guidata Logo](https://raw.githubusercontent.com/PlotPyStack/.github/main/data/guidata.png) | [guidata](https://github.com/PlotPyStack/guidata)      | 2009 | A Python library for easy dataset manipulation and display.      |
-| ![guiqwt Logo](https://raw.githubusercontent.com/PlotPyStack/.github/main/data/guiqwt.png) | [guiqwt](https://github.com/PlotPyStack/guiqwt)       | 2009 | An efficient 2D data-plotting library based on PythonQwt (guiqwt will soon be replaced by plotpy). |
+| ![guiqwt Logo](https://raw.githubusercontent.com/PlotPyStack/.github/main/data/guiqwt.png) | [guiqwt](https://github.com/PlotPyStack/guiqwt)       | 2009 | An efficient 2D data-plotting library based on PythonQwt (guiqwt was replaced in 2023 by PlotPy). |
 | ![plotpy Logo](https://raw.githubusercontent.com/PlotPyStack/.github/main/data/plotpy.png) | [plotpy](https://github.com/PlotPyStack/plotpy)       | 2016 | A high-level interface for creating a variety of plot types.     |
 
 PythonQwt, guidata, guiqwt and plotpy were created by Pierre Raybaut and are now maintained by the PlotPyStack organization.
